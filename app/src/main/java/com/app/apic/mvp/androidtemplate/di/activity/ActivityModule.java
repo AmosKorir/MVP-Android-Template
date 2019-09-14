@@ -1,7 +1,7 @@
 package com.app.apic.mvp.androidtemplate.di.activity;
 
 import android.content.Context;
-import android.support.v4.app.FragmentManager;
+import androidx.fragment.app.FragmentManager;
 import android.view.LayoutInflater;
 
 import com.app.apic.domain.constants.DIConstants;

@@ -1,6 +1,6 @@
 package com.app.apic.mvp.androidtemplate.ui.activities;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.app.apic.mvp.androidtemplate.R;

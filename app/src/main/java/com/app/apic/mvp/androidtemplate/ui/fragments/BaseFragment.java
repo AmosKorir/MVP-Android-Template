@@ -1,6 +1,6 @@
 package com.app.apic.mvp.androidtemplate.ui.fragments;
 
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 
 /**
